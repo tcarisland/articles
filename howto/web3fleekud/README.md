@@ -46,5 +46,19 @@ If you open it up in localhost:3000 you'll see a demo application.
 
 ![nextjs-screenshot](https://user-images.githubusercontent.com/11506194/222985522-2216a905-cb9e-4bdc-a433-a071a63b90e4.png)
 
+By opening src/pages/index.tsx and clearing out nearly all the html, we can write a simple Hello message for our custom page.
+
+![index-tsx-screenshot](https://user-images.githubusercontent.com/11506194/222985976-48473b58-0907-417c-b36c-a4fb25e1529a.png)  
+
+This gives us an unassuming webpage with our hello message.
+
+![hello](https://user-images.githubusercontent.com/11506194/222986017-95a25b99-c311-4d7b-a4e2-eb5cb713833e.png)
+
+Now we're ready to commit and push and share it on IPFS.  
+
+>git add .  
+>git commit -m "initial next.js"  
+>git push
+
 
 
