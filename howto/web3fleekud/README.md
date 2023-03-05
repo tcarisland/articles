@@ -9,7 +9,7 @@ Cryptocurrency sentiment might be low, and NFTs get a bad rep, but what if I tol
 
 That's what this article is about.  
 
-Web3 is decentralized, peer to peer, and hopefully more open and uncensorable than the increasingly walled gardens of social media and censored search engines.  
+Web3 is decentralized, peer to peer, and hopefully more open and uncensorable than the increasingly walled gardens of social media and secretive search engines who think it's their job to tell you what you can read and can't read.  
 
 In fact, the tech in this tutorial has just as much to do with the early days of Napster and Torrents as it has to do with Bitcoin.  
 
