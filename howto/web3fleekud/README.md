@@ -21,3 +21,8 @@ And how will we do this? Through GitHub, Next.JS, IPFS, Fleek and Unstoppable Do
 There are lots of ways to get working with web3 and hosting it on IPFS. We could for example write a static index.html by hand and just upload it to [Pinata](https://pinata.cloud/) or some other pinning service and then link it on Unstoppable Domains, or we could use Unstoppable Domains own website builder, but due to reasons that'll become clearer over time, we want some way of saving, storing backups and easily upload our website. We also want some way of creating larger, more functional websites. And because of the static nature of websites hosted over IPFS, [GitHub](https://www.github.com) will serve as a CMS solution for working with out website.
 
 For this project, I have bought myself a web3 domain by the name of [colorfonts.nft](colorfonts.nft) and so naturally, I'll name the new project Colorfonts.
+
+https://user-images.githubusercontent.com/11506194/222984483-80479cbf-c68d-4b57-973c-9ecfe928cf64.mov
+
+
+
