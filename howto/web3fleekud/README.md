@@ -35,11 +35,16 @@ Now clone your repository and cd in to create a Next.JS application. In my case 
 >rm README.md # Only necessary if you've created a README.md in the previous step  
 >npx create-next-app .
 
+https://user-images.githubusercontent.com/11506194/222985487-83a05e18-0a07-436f-bb3e-ee277fb485cd.mov
+
 You can then start your application by first installing dependencies and running the project.
 
 >npm i  
 >npm run dev
 
-If you open it up in localhost:3000 you'll see a demo application.
+If you open it up in localhost:3000 you'll see a demo application.  
+
+![nextjs-screenshot](https://user-images.githubusercontent.com/11506194/222985522-2216a905-cb9e-4bdc-a433-a071a63b90e4.png)
+
 
 
