@@ -3,7 +3,7 @@
 ## Setting up a web3 website
 
 > "NFTs: The Biggest Scam of our Times"  
-> - Apparently everyone on the Internet right now.
+> -- Apparently everyone on the Internet right now.
 
 Cryptocurrency sentiment might be low, and NFTs get a bum rap, but what if I told you NFTs aren't just monkey pictures and web3 is so much more than just blockchains?  
 
