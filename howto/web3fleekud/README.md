@@ -5,7 +5,7 @@
 > "NFTs: The Biggest Scam of our Times"
 - Seemingly everyone on the Internet right now.
 
-Cryptocurrency sentiment might be low, and NFTs get a bad rep, but what if I told you NFTs aren't just monkey pictures and web3 is so much more than just blockchains?  
+Cryptocurrency sentiment might be low, and NFTs get a bad rap, but what if I told you NFTs aren't just monkey pictures and web3 is so much more than just blockchains?  
 
 That's what this article is about.  
 
