@@ -22,7 +22,24 @@ There are lots of ways to get working with web3 and hosting it on IPFS. We could
 
 For this project, I have bought myself a web3 domain by the name of [colorfonts.nft](colorfonts.nft) and so naturally, I'll name the new project Colorfonts.
 
+Take note that keeping the README.md checked will create a README.md file that will have to be deleted before we create our Next.JS project.
+
 https://user-images.githubusercontent.com/11506194/222984483-80479cbf-c68d-4b57-973c-9ecfe928cf64.mov
 
+## Step 2: Next.JS
+
+Now clone your repository and cd in to create a Next.JS application. In my case the commands were:
+
+>gh repo clone tcarisland/colorfonts  
+>cd colorfonts  
+>rm README.md # Only necessary if you've created a README.md in the previous step  
+>npx create-next-app .
+
+You can then start your application by first installing dependencies and running the project.
+
+>npm i  
+>npm run dev
+
+If you open it up in localhost:3000 you'll see a demo application.
 
 
