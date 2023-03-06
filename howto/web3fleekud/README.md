@@ -80,7 +80,7 @@ But what's the catch?
 
 The catch is that all though users of the IPFS network might also share that data, we need to make sure that the data is "pinned" either by running our own IPFS node or pin it using a pinning service.  
 
-This is where [Pinata](https://pinata.cloud) would have entered in to it if it wasn't for the fact that [Fleek](app.fleek.co) came along and made it possible for us to easily create automatic deployment scripts, publishing new changes on IPFS whenever you made a commit or otherwise triggered the deployment pipeline.
+This is where [Pinata](https://pinata.cloud) would have entered in to it if it wasn't for the fact that [Fleek](https://app.fleek.co) came along and made it possible for us to easily create automatic deployment scripts, publishing new changes on IPFS whenever you made a commit or otherwise triggered the deployment pipeline.
 
 ## Step 4: Fleek
 
